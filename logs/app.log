@@ -1,0 +1,106 @@
+2024-12-05 20:00:43,699 - app_logger - ERROR - Error saving file: [Errno 2] No such file or directory: 'storage/ed80df6c-6948-41d4-8872-005678a4c5eb.pdf'
+2024-12-05 20:02:34,403 - app_logger - ERROR - Error saving file: 'bytes' object has no attribute 'read'
+2024-12-05 20:34:40,953 - app_logger - ERROR - Error saving file: 'bytes' object has no attribute 'read'
+2024-12-05 20:35:59,253 - app_logger - ERROR - Error saving file: 'bytes' object has no attribute 'read'
+2024-12-05 20:37:13,971 - app_logger - ERROR - Error saving file: a bytes-like object is required, not 'coroutine'
+2024-12-05 20:37:48,691 - app_logger - ERROR - Error saving file: a bytes-like object is required, not 'UploadFile'
+2024-12-05 20:37:50,584 - app_logger - ERROR - Error saving file: a bytes-like object is required, not 'UploadFile'
+2024-12-05 20:38:15,668 - app_logger - INFO - File saved: storage/8aa28c1c-34c6-4c30-b576-548498d1235a.pdf
+2024-12-05 20:38:15,941 - app_logger - INFO - Text extracted from storage/8aa28c1c-34c6-4c30-b576-548498d1235a.pdf
+2024-12-05 20:45:34,056 - app_logger - INFO - File saved: storage/67b126ea-b6b1-4758-8840-2615452240d8.pdf
+2024-12-05 20:45:34,458 - app_logger - INFO - Text extracted from storage/67b126ea-b6b1-4758-8840-2615452240d8.pdf
+2024-12-05 20:51:21,962 - app_logger - INFO - File saved: storage/ab48b6d1-70bf-42f3-9f07-f21c8a6e0826.pdf
+2024-12-05 20:51:22,344 - app_logger - INFO - Text extracted from storage/ab48b6d1-70bf-42f3-9f07-f21c8a6e0826.pdf
+2024-12-05 21:24:40,162 - app_logger - INFO - File saved: storage/0a59f3c0-ce96-4c89-8a8a-478a5b025a04.pdf
+2024-12-05 21:24:40,563 - app_logger - INFO - Text extracted from storage/0a59f3c0-ce96-4c89-8a8a-478a5b025a04.pdf
+2024-12-05 21:24:52,901 - app_logger - ERROR - Gemini API error: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2024-12-05 21:33:29,560 - app_logger - ERROR - Gemini API error: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2024-12-05 21:38:33,188 - app_logger - INFO - File saved: storage/34d5da5a-80cb-4486-abe5-d9e0b19ae9c7.pdf
+2024-12-05 21:38:33,799 - app_logger - INFO - Text extracted from storage/34d5da5a-80cb-4486-abe5-d9e0b19ae9c7.pdf
+2024-12-05 21:38:47,232 - app_logger - ERROR - Gemini API error: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2024-12-05 21:40:10,474 - app_logger - INFO - File saved: storage/60cbe2d6-a931-4a49-b07b-7adb98606185.pdf
+2024-12-05 21:40:10,908 - app_logger - INFO - Text extracted from storage/60cbe2d6-a931-4a49-b07b-7adb98606185.pdf
+2024-12-05 21:40:25,403 - app_logger - ERROR - Gemini API error: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2024-12-05 21:44:59,767 - app_logger - ERROR - Gemini API error: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2024-12-05 21:46:10,891 - app_logger - INFO - File saved: storage/555c458a-714b-4cf6-ad78-071e909960d1.pdf
+2024-12-05 21:46:11,128 - app_logger - INFO - Text extracted from storage/555c458a-714b-4cf6-ad78-071e909960d1.pdf
+2024-12-05 21:46:22,237 - app_logger - ERROR - Gemini API error: HTTPSConnectionPool(host='gemini.api.endpoint', port=443): Max retries exceeded with url: /v1/query (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DB4A30D250>: Failed to resolve 'gemini.api.endpoint' ([Errno 11001] getaddrinfo failed)"))
+2024-12-05 21:46:36,870 - app_logger - ERROR - Gemini API error: HTTPSConnectionPool(host='gemini.api.endpoint', port=443): Max retries exceeded with url: /v1/query (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DB4A30FFD0>: Failed to resolve 'gemini.api.endpoint' ([Errno 11001] getaddrinfo failed)"))
+2024-12-05 21:46:38,926 - app_logger - ERROR - Gemini API error: HTTPSConnectionPool(host='gemini.api.endpoint', port=443): Max retries exceeded with url: /v1/query (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DB4A3127D0>: Failed to resolve 'gemini.api.endpoint' ([Errno 11001] getaddrinfo failed)"))
+2024-12-05 21:46:39,977 - app_logger - ERROR - Gemini API error: HTTPSConnectionPool(host='gemini.api.endpoint', port=443): Max retries exceeded with url: /v1/query (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DB4A30ECD0>: Failed to resolve 'gemini.api.endpoint' ([Errno 11001] getaddrinfo failed)"))
+2024-12-05 21:59:12,183 - app_logger - INFO - File saved: storage/cfa59ed2-b1a1-4911-ac8f-214302d24cd4.pdf
+2024-12-05 21:59:12,495 - app_logger - INFO - Text extracted from storage/cfa59ed2-b1a1-4911-ac8f-214302d24cd4.pdf
+2024-12-05 22:02:04,115 - app_logger - INFO - File saved: storage/53b53cee-878e-4285-bd7c-9cf396b3cb15.pdf
+2024-12-05 22:02:04,546 - app_logger - INFO - Text extracted from storage/53b53cee-878e-4285-bd7c-9cf396b3cb15.pdf
+2024-12-05 22:02:28,878 - app_logger - INFO - File saved: storage/aab59173-78e6-4f8b-ab01-1739fc157c07.pdf
+2024-12-05 22:02:29,218 - app_logger - INFO - Text extracted from storage/aab59173-78e6-4f8b-ab01-1739fc157c07.pdf
+2024-12-05 22:09:57,889 - app_logger - INFO - File saved: storage/51d7763d-60ff-47b2-a0d4-930a843b6988.pdf
+2024-12-05 22:09:58,634 - app_logger - INFO - Text extracted from storage/51d7763d-60ff-47b2-a0d4-930a843b6988.pdf
+2024-12-05 22:11:41,446 - app_logger - INFO - File saved: storage/198ca1c5-35f3-47f7-9624-ccbb9552d381.pdf
+2024-12-05 22:11:43,965 - app_logger - INFO - Text extracted from storage/198ca1c5-35f3-47f7-9624-ccbb9552d381.pdf
+2024-12-05 22:36:15,930 - app_logger - INFO - File saved: storage/13d361a3-1fb0-4c18-b527-300b1e3aa988.pdf
+2024-12-05 22:36:16,634 - app_logger - INFO - Text extracted from storage/13d361a3-1fb0-4c18-b527-300b1e3aa988.pdf
+2024-12-07 22:40:20,724 - app_logger - INFO - File saved: storage/c68bd746-0fee-41b0-827c-e865407a485c.pdf
+2024-12-07 22:40:21,597 - app_logger - INFO - Text extracted from storage/c68bd746-0fee-41b0-827c-e865407a485c.pdf
+2024-12-07 22:40:21,597 - app_logger - INFO - PDF storage/c68bd746-0fee-41b0-827c-e865407a485c.pdf loaded successfully with ID c68bd746-0fee-41b0-827c-e865407a485c.
+2024-12-07 22:46:27,572 - app_logger - INFO - File saved: storage/f8bb6b1b-be02-4eb5-ad13-969111dc761c.pdf
+2024-12-07 22:46:28,346 - app_logger - INFO - Text extracted from storage/f8bb6b1b-be02-4eb5-ad13-969111dc761c.pdf
+2024-12-07 22:46:28,347 - app_logger - INFO - PDF storage/f8bb6b1b-be02-4eb5-ad13-969111dc761c.pdf loaded successfully with ID f8bb6b1b-be02-4eb5-ad13-969111dc761c.
+2024-12-07 22:47:05,608 - app_logger - INFO - File saved: storage/c993a901-6d38-497b-b789-5b9fd62242d9.pdf
+2024-12-07 22:47:06,451 - app_logger - INFO - Text extracted from storage/c993a901-6d38-497b-b789-5b9fd62242d9.pdf
+2024-12-07 22:47:06,451 - app_logger - INFO - PDF storage/c993a901-6d38-497b-b789-5b9fd62242d9.pdf loaded successfully with ID c993a901-6d38-497b-b789-5b9fd62242d9.
+2024-12-08 01:55:10,373 - app_logger - ERROR - Error saving file: a bytes-like object is required, not '_io.BufferedReader'
+2024-12-08 01:55:45,371 - app_logger - INFO - File saved: storage/7ff3d67e-fca0-415c-9993-06614cdae021.pdf
+2024-12-08 01:55:45,373 - app_logger - ERROR - Error saving file: EOF marker not found
+2024-12-08 01:56:53,723 - app_logger - INFO - File saved: storage/764511a3-ee92-4b4b-be1b-41a87443066f.pdf
+2024-12-08 01:56:53,725 - app_logger - ERROR - Error saving file: EOF marker not found
+2024-12-08 21:27:06,078 - app_logger - INFO - File saved: storage/173250b1-a2d5-4720-bd4d-f3dcbbe51a22.pdf
+2024-12-08 21:27:06,080 - app_logger - ERROR - Error saving file: EOF marker not found
+2024-12-08 21:27:21,632 - app_logger - ERROR - Error saving file: a bytes-like object is required, not '_io.BufferedReader'
+2024-12-08 21:27:36,673 - app_logger - INFO - File saved: storage/4baf54bd-94f5-4f6c-b53f-88ad1bc52b9b.pdf
+2024-12-08 21:27:36,674 - app_logger - ERROR - Error saving file: EOF marker not found
+2024-12-08 21:28:42,490 - app_logger - ERROR - Error saving file: a bytes-like object is required, not 'int'
+2024-12-08 21:37:57,798 - app_logger - INFO - File saved: storage/e37270d0-fdd9-410c-9061-958e2cb30440.pdf
+2024-12-08 21:37:57,800 - app_logger - ERROR - Error saving file: EOF marker not found
+2024-12-08 21:44:34,141 - app_logger - INFO - File saved: storage/5640d4d3-9bbb-450c-914f-f3c9a6fb04d1.pdf
+2024-12-08 21:44:34,143 - app_logger - INFO - Text extracted from storage/5640d4d3-9bbb-450c-914f-f3c9a6fb04d1.pdf
+2024-12-08 21:44:34,144 - app_logger - INFO - PDF storage/5640d4d3-9bbb-450c-914f-f3c9a6fb04d1.pdf loaded successfully with ID 5640d4d3-9bbb-450c-914f-f3c9a6fb04d1.
+2024-12-08 21:44:55,459 - app_logger - INFO - File saved: storage/ce667d2c-6dc8-4ab9-841a-65762991967f.pdf
+2024-12-08 21:44:55,461 - app_logger - INFO - Text extracted from storage/ce667d2c-6dc8-4ab9-841a-65762991967f.pdf
+2024-12-08 21:44:55,461 - app_logger - INFO - PDF storage/ce667d2c-6dc8-4ab9-841a-65762991967f.pdf loaded successfully with ID ce667d2c-6dc8-4ab9-841a-65762991967f.
+2024-12-08 21:45:10,926 - app_logger - INFO - File saved: storage/39415870-205d-4605-b8e7-aa557eeb79fc.pdf
+2024-12-08 21:45:10,927 - app_logger - INFO - Text extracted from storage/39415870-205d-4605-b8e7-aa557eeb79fc.pdf
+2024-12-08 21:45:10,927 - app_logger - INFO - PDF storage/39415870-205d-4605-b8e7-aa557eeb79fc.pdf loaded successfully with ID 39415870-205d-4605-b8e7-aa557eeb79fc.
+2024-12-08 21:46:06,315 - app_logger - INFO - File saved: storage/f6f36e95-16d7-42bd-815a-cb9141991e07.pdf
+2024-12-08 21:46:06,317 - app_logger - INFO - Text extracted from storage/f6f36e95-16d7-42bd-815a-cb9141991e07.pdf
+2024-12-08 21:46:06,317 - app_logger - INFO - PDF storage/f6f36e95-16d7-42bd-815a-cb9141991e07.pdf loaded successfully with ID f6f36e95-16d7-42bd-815a-cb9141991e07.
+2024-12-08 21:48:15,518 - app_logger - INFO - File saved: storage/43a71544-868e-4c56-8949-d86d46e3b4e8.pdf
+2024-12-08 21:48:15,520 - app_logger - INFO - Text extracted from storage/43a71544-868e-4c56-8949-d86d46e3b4e8.pdf
+2024-12-08 21:48:15,520 - app_logger - INFO - PDF storage/43a71544-868e-4c56-8949-d86d46e3b4e8.pdf loaded successfully with ID 43a71544-868e-4c56-8949-d86d46e3b4e8.
+2024-12-08 21:48:42,481 - app_logger - INFO - File saved: storage/53696516-1703-447a-ab64-e76782a9aa41.pdf
+2024-12-08 21:48:42,483 - app_logger - INFO - Text extracted from storage/53696516-1703-447a-ab64-e76782a9aa41.pdf
+2024-12-08 21:48:42,484 - app_logger - INFO - PDF storage/53696516-1703-447a-ab64-e76782a9aa41.pdf loaded successfully with ID 53696516-1703-447a-ab64-e76782a9aa41.
+2024-12-08 22:01:58,905 - app_logger - INFO - File saved: storage/c7be47c7-a9b7-4293-aab7-6ce3d130714a.pdf
+2024-12-08 22:01:58,907 - app_logger - INFO - Text extracted from storage/c7be47c7-a9b7-4293-aab7-6ce3d130714a.pdf
+2024-12-08 22:01:58,907 - app_logger - INFO - PDF storage/c7be47c7-a9b7-4293-aab7-6ce3d130714a.pdf loaded successfully with ID c7be47c7-a9b7-4293-aab7-6ce3d130714a.
+2024-12-08 22:04:15,035 - app_logger - INFO - File saved: storage/7a6f1045-1158-4888-8958-3c28b1ffa4d6.pdf
+2024-12-08 22:04:15,036 - app_logger - INFO - Text extracted from storage/7a6f1045-1158-4888-8958-3c28b1ffa4d6.pdf
+2024-12-08 22:04:15,036 - app_logger - INFO - PDF storage/7a6f1045-1158-4888-8958-3c28b1ffa4d6.pdf loaded successfully with ID 7a6f1045-1158-4888-8958-3c28b1ffa4d6.
+2024-12-08 22:04:29,205 - app_logger - INFO - File saved: storage/3024e8f0-0040-4508-8eb9-466c6bbea87f.pdf
+2024-12-08 22:04:29,207 - app_logger - INFO - Text extracted from storage/3024e8f0-0040-4508-8eb9-466c6bbea87f.pdf
+2024-12-08 22:04:29,207 - app_logger - INFO - PDF storage/3024e8f0-0040-4508-8eb9-466c6bbea87f.pdf loaded successfully with ID 3024e8f0-0040-4508-8eb9-466c6bbea87f.
+2024-12-08 22:04:59,786 - app_logger - INFO - File saved: storage/d17c999d-4311-4b31-9559-93628cc0605a.pdf
+2024-12-08 22:04:59,788 - app_logger - INFO - Text extracted from storage/d17c999d-4311-4b31-9559-93628cc0605a.pdf
+2024-12-08 22:04:59,788 - app_logger - INFO - PDF storage/d17c999d-4311-4b31-9559-93628cc0605a.pdf loaded successfully with ID d17c999d-4311-4b31-9559-93628cc0605a.
+2024-12-08 22:38:03,590 - app_logger - INFO - File saved: storage/64eaed3c-6819-462a-bde2-11f50d571830.pdf
+2024-12-08 22:38:04,615 - app_logger - INFO - Text extracted from storage/64eaed3c-6819-462a-bde2-11f50d571830.pdf
+2024-12-08 22:38:04,615 - app_logger - INFO - PDF storage/64eaed3c-6819-462a-bde2-11f50d571830.pdf loaded successfully with ID 64eaed3c-6819-462a-bde2-11f50d571830.
+2024-12-08 22:48:28,613 - app_logger - INFO - File saved: storage/963f6e3e-de8a-4ad1-9d63-5cf567af5e2e.pdf
+2024-12-08 22:48:28,614 - app_logger - INFO - Text extracted from storage/963f6e3e-de8a-4ad1-9d63-5cf567af5e2e.pdf
+2024-12-08 22:48:28,615 - app_logger - INFO - PDF storage/963f6e3e-de8a-4ad1-9d63-5cf567af5e2e.pdf loaded successfully with ID 963f6e3e-de8a-4ad1-9d63-5cf567af5e2e.
+2024-12-08 22:50:56,576 - app_logger - INFO - File saved: storage/2bd97064-bb1e-461e-80e9-06ed0e9e07a9.pdf
+2024-12-08 22:50:56,578 - app_logger - INFO - Text extracted from storage/2bd97064-bb1e-461e-80e9-06ed0e9e07a9.pdf
+2024-12-08 22:50:56,578 - app_logger - INFO - PDF storage/2bd97064-bb1e-461e-80e9-06ed0e9e07a9.pdf loaded successfully with ID 2bd97064-bb1e-461e-80e9-06ed0e9e07a9.
+2024-12-08 23:08:23,797 - app_logger - INFO - File saved: storage/583e3766-5f28-486f-a2a7-8b3df5330dd4.pdf
+2024-12-08 23:08:23,798 - app_logger - INFO - Text extracted from storage/583e3766-5f28-486f-a2a7-8b3df5330dd4.pdf
+2024-12-08 23:08:23,798 - app_logger - INFO - PDF storage/583e3766-5f28-486f-a2a7-8b3df5330dd4.pdf loaded successfully with ID 583e3766-5f28-486f-a2a7-8b3df5330dd4.
